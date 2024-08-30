@@ -31,16 +31,18 @@ See more details about the feature extration in the [Appendix](Appendices/Append
 
 Please cite the following paper if you use the codes or the radiomic features we provided:
 
-> @article{li2021impact,
->   title={Impact of preprocessing and harmonization methods on the removal of scanner effects in brain MRI radiomic features},
->   author={Li, Yingping and Ammari, Samy and Balleyguier, Corinne and Lassau, Nathalie and Chouzenoux, Emilie},
->   journal={Cancers},
->   volume={13},
->   number={12},
->   pages={3000},
->   year={2021},
->   publisher={MDPI}
-> }
+```
+@article{li2021impact,
+  title={Impact of preprocessing and harmonization methods on the removal of scanner effects in brain MRI radiomic features},
+  author={Li, Yingping and Ammari, Samy and Balleyguier, Corinne and Lassau, Nathalie and Chouzenoux, Emilie},
+  journal={Cancers},
+  volume={13},
+  number={12},
+  pages={3000},
+  year={2021},
+  publisher={MDPI}
+}
+```
 
 ## Contact me
 
